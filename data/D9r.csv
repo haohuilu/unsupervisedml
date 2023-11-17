@@ -1,0 +1,8 @@
+,ARI,AMI,Homogenity,Completeness,V-measure,Silhouette
+K-means,0.1868,0.0840,0.0878,0.0810,0.0843,0.5509
+MiniBatchKMeans,0.0514,0.0674,0.0917,0.0535,0.0676,0.3393
+GaussianMixture,-0.0465,0.0058,0.0065,0.0058,0.0062,-0.0972
+BayesianGaussianMixture,0.1383,0.0676,0.0868,0.0557,0.0678,0.2782
+AgglomerativeClustering,0.1134,0.0339,0.0321,0.0366,0.0342,0.6002
+SpectralClustering,0.0266,0.0214,0.0114,0.3468,0.0220,0.8426
+DBSCAN,0.2459,0.1452,0.7913,0.1087,0.1912,-0.5019
