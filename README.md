@@ -75,3 +75,7 @@ clustering algorithms, and writes a metrics table to `results/`.
   publisher = {Springer}
 }
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
